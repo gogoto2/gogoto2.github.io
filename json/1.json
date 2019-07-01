@@ -1,13 +1,8 @@
 {
-    "name": "BeJson",
-    "url": "http://www.bejson.com",
-    "page": 88,
-    "isNonProfit": true,
-    "address": {
-        "street": "科技园路.",
-        "city": "江苏苏州",
-        "country": "中国"
-    },
+    "success": true,
+    "resultCode": "20000",
+    "attach": null
+    "timestampMs" : 1556161250537
     "links": [
         {
             "name": "Google",
