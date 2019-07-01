@@ -1,8 +1,8 @@
 {
     "success": true,
     "resultCode": "20000",
-    "attach": null
-    "timestampMs" : 1556161250537
+    "attach": null,
+    "timestampMs" : 1556161250537,
     "links": [
         {
             "name": "Google",
